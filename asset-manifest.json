@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfoliotobi/static/css/main.4cd70831.css",
+    "main.js": "/portfoliotobi/static/js/main.09c4b49e.js",
+    "index.html": "/portfoliotobi/index.html",
+    "main.4cd70831.css.map": "/portfoliotobi/static/css/main.4cd70831.css.map",
+    "main.09c4b49e.js.map": "/portfoliotobi/static/js/main.09c4b49e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd70831.css",
+    "static/js/main.09c4b49e.js"
+  ]
+}
